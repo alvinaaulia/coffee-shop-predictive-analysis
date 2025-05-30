@@ -1,7 +1,5 @@
 # Coffee Shop Predictive Analysis
 
-![Coffee Shop](https://img.freepik.com/free-photo/coffee-shop-workspace-top-view_23-2149076688.jpg)
-
 Repository ini berisi analisis prediktif untuk mengoptimalkan bisnis coffee shop dengan memanfaatkan data transaksi penjualan.
 
 ## Overview
