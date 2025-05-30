@@ -62,10 +62,12 @@ jupyter notebook coffee_shop_predictive_analysis_revisi.ipynb
 ```
 
 ## Struktur Repository
-``` coffee-shop-predictive-analysis/
+```
+coffee-shop-predictive-analysis/
 ├── data/
 │   └── Coffee Shop Sales.xlsx
 ├── notebooks/
 │   └── coffee_shop_predictive_analysis_revisi.ipynb
 ├── README.md
-└── requirements.txt ```
+└── requirements.txt
+```
