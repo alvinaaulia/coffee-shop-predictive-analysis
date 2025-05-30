@@ -1,5 +1,4 @@
 # Coffee Shop Predictive Analysis
-
 Repository ini berisi analisis prediktif untuk mengoptimalkan bisnis coffee shop dengan memanfaatkan data transaksi penjualan.
 
 ## Overview
@@ -48,8 +47,25 @@ Data berasal dari [Kaggle - Coffee Sales Dataset](https://www.kaggle.com/dataset
 - **Model terbaik**: Gradient Boosting (R² 0.3727)
 - **Waktu sibuk**: Jam 12-14 (makan siang)
 
-## 🚀 Cara Menggunakan
-
+## Cara Menggunakan
 1. Clone repository:
-```bash
+```
 git clone https://github.com/username/coffee-shop-predictive-analysis.git
+```
+2. Install requirements:
+```
+pip install -r requirements.txt
+```
+3. Jalankan notebook:
+``` 
+jupyter notebook coffee_shop_predictive_analysis_revisi.ipynb
+```
+
+## Struktur Repository
+``` coffee-shop-predictive-analysis/
+├── data/
+│   └── Coffee Shop Sales.xlsx
+├── notebooks/
+│   └── coffee_shop_predictive_analysis_revisi.ipynb
+├── README.md
+└── requirements.txt ```
